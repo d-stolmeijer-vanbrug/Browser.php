@@ -36,6 +36,8 @@
  *
  */
 
+namespace cbschuld;
+
 class Browser
 {
     private $_agent = '';
